@@ -8,9 +8,9 @@
      LAST UPDATED: 2026-03-27
      ══════════════════════════════════════════════════════════════════ -->
 
-**PhD candidate in Economics · Health Economist · Data Scientist**
+**PhD candidate in Economics · (Health) Economist · Data Scientist**
 
-I work at the intersection of **artificial intelligence**, **health economics**, and **causal inference** — using machine learning and econometric methods to study healthcare utilisation, hospital quality, and the effects of system shocks on primary care delivery.
+I work at the intersection of **artificial intelligence**, **(health) economics**, and **causal inference** — using machine learning and econometric methods to study healthcare utilisation, hospital quality, and the effects of system shocks on primary care delivery.
 
 Currently:
 - 🎓 PhD Candidate, Economics, Management and Organization — Universidad Pública de Navarra
