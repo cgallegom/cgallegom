@@ -5,7 +5,7 @@
      USAGE: Copy the content below (everything after this comment block)
             into the file cgallegom/cgallegom/README.md in your GitHub profile repo.
      SOURCE: bio/medium_en.md · links.md · projects/portfolio.md · own-bib.bib
-     LAST UPDATED: 2026-03-27
+     LAST UPDATED: 2026-04-08
      ══════════════════════════════════════════════════════════════════ -->
 
 **PhD candidate in Economics · (Health) Economist · Data Scientist**
@@ -36,13 +36,19 @@ Currently:
 
 ---
 
-## Working papers
+## In progress
 
 - **From Patients to Providers:** Decomposing Variations in Avoidable Hospitalisations with Interpretable Machine Learning *(solo)*
-- **Stress-Testing Primary Care:** COVID-19 Intensity and Healthcare Outcomes in Catalonia — Continuous DiD *(with Maynou, Violán-Fors)*
-- **Public vs. Private Hospital Quality** in Catalonia: A Register-Based Study *(with Bosque, Maynou)*
-- **Patient-Level Heterogeneity** in Surgical Outcomes: Who Benefits from Public vs. Private Care? *(with Maynou)*
-- Bronchiectasis burden and quality-of-life outcomes *(with Maynou, McGuire — LSE)*
+- **Stress-Testing Primary Care:** COVID-19 Intensity and Healthcare Outcomes in Catalonia — Continuous DiD *(with Laia Maynou, Concepción Violán-Fors)*
+- **Quality differences among private and public hospitals in Catalonia and Norway: A Register-Based Study** *(with Laia Bosque, Laia Maynou, and Terje P. Hagen)*
+- **Patient-Level Heterogeneity** in Surgical Outcomes: Who Benefits from Public vs. Private Care? *(with Laia Maynou)*
+- **Bronchiectasis burden and quality-of-life outcomes** *(with Laia Maynou, A. McGuire — LSE)*
+
+---
+
+## Public resources
+
+- [Inequality perceptions / Percepciones de desigualdad](https://cgallegom.shinyapps.io/percepciones_desigualdad/) — interactive Shiny web app, last updated March 2025
 
 ---
 
@@ -66,6 +72,7 @@ Currently:
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos_Gallego--Moll-0A66C2?logo=linkedin)](https://www.linkedin.com/in/carlos-gallego-economist-datascientist/)
+[![Google Scholar](https://img.shields.io/badge/Scholar-Profile-4285F4?logo=google-scholar)](https://scholar.google.com/citations?user=HgohTeMAAAAJ&hl=es&oi=ao)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--7215--4584-A6CE39?logo=orcid)](https://orcid.org/0000-0001-7215-4584)
 
 ---
