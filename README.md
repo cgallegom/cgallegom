@@ -49,6 +49,7 @@ Currently:
 ## Public resources
 
 - [Inequality perceptions / Percepciones de desigualdad](https://cgallegom.shinyapps.io/percepciones_desigualdad/) — interactive Shiny web app, last updated March 2025
+- [Genetic Evaluation of Multimorbidity towards INdividualisation of Interventions](https://gemini-multimorbidity.shinyapps.io/atlas/) - interactive Shiny web app from [this published paper](https://doi.org/10.1016/j.ebiom.2025.105584).
 
 ---
 
@@ -56,7 +57,7 @@ Currently:
 
 | Degree | Institution | Year |
 |---|---|---|
-| PhD Economics, Management and Organization | Universidad Pública de Navarra | 2026 (expected) |
+| PhD Economics, Management and Organization | Interuniversity program betweeen Universidad Pública de Navarra; Universitat Autònoma de Barcelona; Universitat de les Illes Balears| 2026 (expected) |
 | MSc Big Data & Data Science applied to Economics | UNED | 2021 |
 | MSc Economics, Regulation and Competition in Public Services | Universitat de Barcelona | 2020 |
 | BSc Economics | Universitat de les Illes Balears | 2019 |
